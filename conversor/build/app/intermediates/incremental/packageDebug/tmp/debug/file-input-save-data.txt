@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Jul 20 15:46:22 BRT 2019
+#Sat Jul 20 15:49:43 BRT 2019
 4.path=lib/armeabi-v7a/libflutter.so
 8.set=ASSET
 6.path=lib/x86_64/libflutter.so

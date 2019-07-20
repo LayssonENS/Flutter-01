@@ -1,4 +1,4 @@
-#Sat Jul 20 15:46:20 BRT 2019
+#Sat Jul 20 15:49:41 BRT 2019
 base.0=C\:\\Users\\Laysson Enderson\\Desktop\\Arquivos\\Flutter 01\\conversor\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex
