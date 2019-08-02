@@ -60,3 +60,51 @@ expandedLogin(context) {
     ),
   );
 }
+
+
+
+
+import 'package:flutter/material.dart';
+
+expandedLogin(context) {
+  return SingleChildScrollView(
+    child: Container(
+      width: MediaQuery.of(context).size.width,
+      height: MediaQuery.of(context).size.height,
+      alignment: Alignment.bottomCenter,
+      child: Stack(
+        children: <Widget>[
+          Column(
+            children: <Widget>[
+              Expanded(
+                flex: 1,
+                child: Container(
+                  color: Colors.pink,
+                ),
+              ),
+              Expanded(
+                flex: 1,
+                child: Container(
+                  color: Colors.blue,
+                ),
+              ),
+              Expanded(
+                flex: 1,
+                child: Container(
+                  color: Colors.indigo,
+                ),
+              ),
+              Expanded(
+                flex: 1,
+                child: Container(
+                  color: Colors.green,
+                ),
+              ),
+            ],
+          ),
+        ],
+      ),
+    ),
+  );
+}
+
